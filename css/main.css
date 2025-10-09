@@ -506,7 +506,7 @@ ul.nav > li > a.active{
     z-index: -1;
 }
 .hero_mockup{
-    background: url(../img/mockup-1.png);
+    background: url(../my_imgs/tempMoukup.png);
     background-repeat: no-repeat;
     background-position: 80% center;
     position: absolute;
